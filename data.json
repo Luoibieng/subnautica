@@ -8,25 +8,19 @@
                 "creature":[
                     {
                         "ID":1,
-                        "name":"LoLi 1",
                         "category":"Unknown",
-                        "size":10,
                         "sell":10,
                         "image": "https://files.catbox.moe/1zzye8.jpeg"
                     },
                     {
                         "ID":2,
-                        "name":"Múp 499",
                         "category":"Common",
-                        "size":11,
                         "sell":1,
                         "image": "https://files.catbox.moe/5bbq1h.jpeg"
                     },
                     {
                         "ID":3,
-                        "name":"Múp 500",
                         "category":"Common",
-                        "size":11,
                         "sell":1,
                         "image": "https://files.catbox.moe/bzir6z.jpeg"                        
                     }
